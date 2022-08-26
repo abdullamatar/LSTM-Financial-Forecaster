@@ -18,5 +18,6 @@
 
 1. [TransferLearning_src](https://analyticsindiamag.com/building-a-transfer-learning-model-for-time-series-forecasting/)
 2. [TransferLearning_src2](https://towardsdatascience.com/transfer-learning-for-time-series-prediction-4697f061f000)
-3. great [resource](https://arxiv.org/pdf/2004.10178v2.pdf) using CuDNNLSTM + Random forest 
+3. [Paper](https://arxiv.org/pdf/2004.10178v2.pdf) using CuDNNLSTM + Random forest
+
 ---
